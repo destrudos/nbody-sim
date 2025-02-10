@@ -86,7 +86,7 @@ All core parameters are specified in the code (e.g. `physics.py` or in `main.py`
 
 ```python
 # Fundamental constants
-G = 6.67430e-2   # Scaled gravitational constant [m³ kg⁻¹ s⁻²]
+G = 6.67430e-2   # Scaled gravitational constant [pixel³ kg⁻¹ s⁻²]
 DT = 0.01       # Time step for Euler integration [s]
 
 # Numerical stability
